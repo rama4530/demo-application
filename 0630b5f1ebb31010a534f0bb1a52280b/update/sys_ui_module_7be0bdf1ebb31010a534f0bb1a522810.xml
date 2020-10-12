@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="hello world">73e0bdf1ebb31010a534f0bb1a52280e</application>
+        <filter/>
+        <name>hello worlds</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>sn_helloworld.hello_world_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-12 11:47:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7be0bdf1ebb31010a534f0bb1a522810</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>hello worlds</sys_name>
+        <sys_package display_value="helloworld" source="sn_helloworld">0630b5f1ebb31010a534f0bb1a52280b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="helloworld">0630b5f1ebb31010a534f0bb1a52280b</sys_scope>
+        <sys_update_name>sys_ui_module_7be0bdf1ebb31010a534f0bb1a522810</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-12 11:47:51</sys_updated_on>
+        <table>sn_helloworld_hello_world</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

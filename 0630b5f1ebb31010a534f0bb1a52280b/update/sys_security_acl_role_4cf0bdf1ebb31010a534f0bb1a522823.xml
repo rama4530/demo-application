@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-12 11:47:51</sys_created_on>
+        <sys_id>4cf0bdf1ebb31010a534f0bb1a522823</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_helloworld_hello_world.sn_helloworld.hello_world_user</sys_name>
+        <sys_package display_value="helloworld" source="sn_helloworld">0630b5f1ebb31010a534f0bb1a52280b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="helloworld">0630b5f1ebb31010a534f0bb1a52280b</sys_scope>
+        <sys_security_acl display_value="sn_helloworld_hello_world">ccf0bdf1ebb31010a534f0bb1a522820</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_4cf0bdf1ebb31010a534f0bb1a522823</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-12 11:47:51</sys_updated_on>
+        <sys_user_role display_value="sn_helloworld.hello_world_user" name="sn_helloworld.hello_world_user">77e0f9f1ebb31010a534f0bb1a522876</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>hello world</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>hello world</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">0051a2f5eb231010a534f0bb1a52281a</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-12 11:47:52</sys_created_on>
+        <sys_id>44f0bdf1ebb31010a534f0bb1a522843</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>hello world</sys_name>
+        <sys_package display_value="helloworld" source="sn_helloworld">0630b5f1ebb31010a534f0bb1a52280b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="helloworld">0630b5f1ebb31010a534f0bb1a52280b</sys_scope>
+        <sys_update_name>sys_wizard_answer_44f0bdf1ebb31010a534f0bb1a522843</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-12 11:47:52</sys_updated_on>
+        <table/>
+        <target_url>sn_helloworld_hello_world.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
